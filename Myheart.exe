@@ -1,0 +1,7 @@
+Global class youaremyhearrt {
+
+    Public static void main()
+    {
+        System.out.println("I am the best");
+    }
+}
